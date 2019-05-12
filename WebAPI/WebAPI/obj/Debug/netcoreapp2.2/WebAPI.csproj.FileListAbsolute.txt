@@ -1,0 +1,14 @@
+D:\Proyectos\Proyectos_Cursos\Identity-Role-NetCore-Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+D:\Proyectos\Proyectos_Cursos\Identity-Role-NetCore-Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+D:\Proyectos\Proyectos_Cursos\Identity-Role-NetCore-Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+D:\Proyectos\Proyectos_Cursos\Identity-Role-NetCore-Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+D:\Proyectos\Proyectos_Cursos\Identity-Role-NetCore-Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+D:\Proyectos\Proyectos_Cursos\Identity-Role-NetCore-Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+D:\Proyectos\Proyectos_Cursos\Identity-Role-NetCore-Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyectos_Cursos\Identity-Role-NetCore-Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+D:\Proyectos\Proyectos_Cursos\Identity-Role-NetCore-Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+D:\Proyectos\Proyectos_Cursos\Identity-Role-NetCore-Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+D:\Proyectos\Proyectos_Cursos\Identity-Role-NetCore-Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+D:\Proyectos\Proyectos_Cursos\Identity-Role-NetCore-Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+D:\Proyectos\Proyectos_Cursos\Identity-Role-NetCore-Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+D:\Proyectos\Proyectos_Cursos\Identity-Role-NetCore-Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
